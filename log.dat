@@ -1,0 +1,30 @@
+
+Erro de Auth:An error occurred (NotAuthorizedException) when calling the InitiateAuth operation: Incorrect username or password.2022-06-15 17:21:33.790198 
+Erro de Auth:An error occurred (NotAuthorizedException) when calling the InitiateAuth operation: Incorrect username or password.
+2022-06-15 17:22:26.230926 Erro de Auth:An error occurred (NotAuthorizedException) when calling the InitiateAuth operation: Incorrect username or password.
+ Type:Error - 2022-06-15 17:24:19.514608: Erro de Auth:An error occurred (NotAuthorizedException) when calling the InitiateAuth operation: Incorrect username or password.
+Type:Process - 2022-06-15 17:31:21.815780: _msg_ AWS Token get service has started
+Type:Error - 2022-06-15 17:31:22.925783: _msg_ An error occurred (NotAuthorizedException) when calling the InitiateAuth operation: Incorrect username or password.
+Type:Final - 2022-06-15 17:31:22.927777: _msg_ AWS Token proccess was closed
+Type:Process - 2022-06-15 17:31:32.331155: _msg_ AWS Token get service has started
+Type:Success - 2022-06-15 17:31:33.508297: _msg_ Token Criado
+Type:Final - 2022-06-15 17:31:33.510292: _msg_ AWS Token proccess was closed
+Type:Start - 2022-06-15 17:33:20.792673: _msg_ AWS Token service started
+Type:Process - 2022-06-15 17:33:21.557369: _msg_ Trying to get token
+Type:Success - 2022-06-15 17:33:22.718426: _msg_ Token Criado
+Type:Final - 2022-06-15 17:33:22.721419: _msg_ AWS Token proccess was closed
+Type:Start - 2022-06-20 09:30:09.126687: _msg_ AWS Token service started
+Type:Process - 2022-06-20 09:30:12.286652: _msg_ Trying to get token
+Type:Final - 2022-06-20 09:30:12.290643: _msg_ AWS Token proccess was closed
+Type:Start - 2022-06-20 10:03:13.675727: _msg_ AWS Token service started
+Type:Process - 2022-06-20 10:03:16.635462: _msg_ Trying to get token
+Type:Success - 2022-06-20 10:03:17.788266: _msg_ Token Criado
+Type:Final - 2022-06-20 10:03:17.791292: _msg_ AWS Token proccess was closed
+Type:Start - 2022-06-20 11:05:35.281964: _msg_ AWS Token service started
+Type:Process - 2022-06-20 11:05:38.366097: _msg_ Trying to get token
+Type:Success - 2022-06-20 11:05:44.243671: _msg_ Token Criado
+Type:Final - 2022-06-20 11:05:44.246662: _msg_ AWS Token proccess was closed
+Type:Start - 2022-06-22 07:55:12.580082: _msg_ AWS Token service started
+Type:Process - 2022-06-22 07:55:15.708552: _msg_ Trying to get token
+Type:Success - 2022-06-22 07:55:16.732969: _msg_ Token Criado
+Type:Final - 2022-06-22 07:55:16.734961: _msg_ AWS Token proccess was closed
