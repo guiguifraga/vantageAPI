@@ -19,3 +19,4 @@ def authCognito():
     finally:
         addLog("Final", "AWS Token proccess was closed")
 
+    

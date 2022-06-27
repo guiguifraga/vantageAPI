@@ -1,3 +1,4 @@
-import Auth.auth_access as Auth
+import Auth.auth as Auth
 
-Auth.authCognito()
+
+Auth.startAuth()
