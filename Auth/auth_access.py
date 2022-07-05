@@ -16,6 +16,7 @@ def authCognito():
     else:
         utils.writeToken(json.dumps(resp))
         addLog("Success", "Token Criado") 
+        print("Success, token was created")
     finally:
         addLog("Final", "AWS Token proccess was closed")
 

@@ -41,3 +41,12 @@ Type:Process - 2022-06-22 15:26:16.044718: _msg_ Trying to get token
 Type:Success - 2022-06-22 15:26:17.072954: _msg_ Token Criado
 Type:Final - 2022-06-22 15:26:17.075977: _msg_ AWS Token proccess was closed
 Type:Success - 2022-06-22 16:05:11.211166: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-07-05 19:08:28.839585: _msg_ AWS Token service started
+Type:Process - 2022-07-05 19:08:29.841599: _msg_ Trying to get token
+Type:Success - 2022-07-05 19:08:35.299032: _msg_ Token Criado
+Type:Final - 2022-07-05 19:08:35.301027: _msg_ AWS Token proccess was closed
+Type:Success - 2022-07-05 19:15:45.021791: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-07-05 19:15:55.499672: _msg_ AWS Token service started
+Type:Process - 2022-07-05 19:15:56.427738: _msg_ Trying to get token
+Type:Success - 2022-07-05 19:16:03.688247: _msg_ Token Criado
+Type:Final - 2022-07-05 19:16:03.692236: _msg_ AWS Token proccess was closed
