@@ -21,5 +21,3 @@ def validToken(tokenDT, tokenVAL):
     tokenDateTime = datetime.strptime(tokenDT,'%a, %d %b %Y %H:%M:%S %Z')
     expireTokenDT = tokenDateTime + timedelta(seconds=tokenVAL)
     return True if datetime.now() < (expireTokenDT - timedelta(seconds=200)) else False
-
-print("teste")
