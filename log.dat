@@ -59,3 +59,25 @@ Type:Process - 2022-07-09 21:06:20.445345: _msg_ Trying to get token
 Type:Success - 2022-07-09 21:06:21.503194: _msg_ Token Criado
 Type:Final - 2022-07-09 21:06:21.504181: _msg_ AWS Token proccess was closed
 Type:Success - 2022-07-09 21:06:26.511233: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-09 22:03:18.579443: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-09 22:08:00.341699: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-09 22:08:04.214183: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-09 22:08:08.467507: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-09 22:12:09.997178: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-07-09 22:12:36.347697: _msg_ AWS Token service started
+Type:Process - 2022-07-09 22:12:36.468130: _msg_ Trying to get token
+Type:Success - 2022-07-09 22:12:37.532391: _msg_ Token Criado
+Type:Final - 2022-07-09 22:12:37.532391: _msg_ AWS Token proccess was closed
+Type:Success - 2022-07-09 22:26:18.986906: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-07-09 22:42:27.346483: _msg_ AWS Token service started
+Type:Process - 2022-07-09 22:42:27.436465: _msg_ Trying to get token
+Type:Success - 2022-07-09 22:42:28.351466: _msg_ Token Criado
+Type:Final - 2022-07-09 22:42:28.351466: _msg_ AWS Token proccess was closed
+Type:Success - 2022-07-09 22:43:52.868210: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-09 22:43:58.041529: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-07-09 22:44:47.247948: _msg_ AWS Token service started
+Type:Process - 2022-07-09 22:44:47.326182: _msg_ Trying to get token
+Type:Success - 2022-07-09 22:44:48.190234: _msg_ Token Criado
+Type:Final - 2022-07-09 22:44:48.190616: _msg_ AWS Token proccess was closed
+Type:Success - 2022-07-09 22:44:51.658030: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-09 22:44:53.527955: _msg_ Tried to authenticate but are already authenticated
