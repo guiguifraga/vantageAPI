@@ -81,3 +81,21 @@ Type:Success - 2022-07-09 22:44:48.190234: _msg_ Token Criado
 Type:Final - 2022-07-09 22:44:48.190616: _msg_ AWS Token proccess was closed
 Type:Success - 2022-07-09 22:44:51.658030: _msg_ Tried to authenticate but are already authenticated
 Type:Success - 2022-07-09 22:44:53.527955: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-07-10 06:51:45.109268: _msg_ AWS Token service started
+Type:Process - 2022-07-10 06:51:45.557987: _msg_ Trying to get token
+Type:Success - 2022-07-10 06:51:47.065157: _msg_ Token Criado
+Type:Final - 2022-07-10 06:51:47.065835: _msg_ AWS Token proccess was closed
+Type:Success - 2022-07-10 07:59:23.697361: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-10 08:00:48.253459: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-10 08:01:05.271208: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-10 08:01:43.606541: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-10 08:02:10.428013: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-10 08:02:52.377943: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-10 08:08:30.249757: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-10 08:09:09.205579: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-10 08:10:06.631095: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-07-10 08:10:21.392577: _msg_ AWS Token service started
+Type:Process - 2022-07-10 08:10:21.665438: _msg_ Trying to get token
+Type:Success - 2022-07-10 08:10:22.922407: _msg_ Token Criado
+Type:Final - 2022-07-10 08:10:22.922407: _msg_ AWS Token proccess was closed
+Type:Success - 2022-07-10 08:13:06.131089: _msg_ Tried to authenticate but are already authenticated

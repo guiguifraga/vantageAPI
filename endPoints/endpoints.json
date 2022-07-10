@@ -1,0 +1,10 @@
+{
+    "apis":[{
+        "id":0,
+        "name": "Monitoring Devices API",
+        "url":"https://ogyc2e7i6f.execute-api.us-east-1.amazonaws.com/v1/all-devices",
+        "params": {
+            "idSite":"c7733f1f-0998-4cde-a371-1dc23e1a27a5"
+        }
+    }]
+}
