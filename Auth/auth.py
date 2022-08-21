@@ -3,7 +3,7 @@ import Auth.auth_access
 import handleLogs.handleLogs as Logs
 
 def startAuth():
-    if(Auth.utils.fileExists()):
+    if(Auth.utils.fileExists("token.dat")):
         Auth.utils.getToken()
         if(Auth.utils.validToken(Auth.utils.authTokenCreatedDatetime,Auth.utils.authTokenExpiresTime)):
             print('you are already authenticated')
@@ -11,6 +11,6 @@ def startAuth():
         else:
             Auth.auth_access.authCognito()
     else:
-        Auth.utils.createTokenFile()
+        Auth.utils.createFile("token.dat")
         Auth.auth_access.authCognito()
 

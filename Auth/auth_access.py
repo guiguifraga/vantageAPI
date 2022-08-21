@@ -14,7 +14,7 @@ def authCognito():
         print("Erro de Auth:{}".format(e))
         addLog("Error",e)
     else:
-        utils.writeToken(json.dumps(resp))
+        utils.writeToken("token.dat",json.dumps(resp))
         addLog("Success", "Token Criado") 
         print("Success, token was created")
     finally:

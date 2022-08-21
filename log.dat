@@ -99,3 +99,46 @@ Type:Process - 2022-07-10 08:10:21.665438: _msg_ Trying to get token
 Type:Success - 2022-07-10 08:10:22.922407: _msg_ Token Criado
 Type:Final - 2022-07-10 08:10:22.922407: _msg_ AWS Token proccess was closed
 Type:Success - 2022-07-10 08:13:06.131089: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-07-14 18:42:09.267950: _msg_ AWS Token service started
+Type:Process - 2022-07-14 18:42:11.431547: _msg_ Trying to get token
+Type:Success - 2022-07-14 18:42:12.394565: _msg_ Token Criado
+Type:Final - 2022-07-14 18:42:12.395563: _msg_ AWS Token proccess was closed
+Type:Success - 2022-07-14 18:48:41.957287: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-07-14 18:54:11.830531: _msg_ Tried to authenticate but are already authenticated
+Type:Start - 2022-08-20 22:09:22.655931: _msg_ AWS Token service started
+Type:Process - 2022-08-20 22:09:25.056483: _msg_ Trying to get token
+Type:Success - 2022-08-20 22:09:26.150557: _msg_ Token Criado
+Type:Final - 2022-08-20 22:09:26.150557: _msg_ AWS Token proccess was closed
+Type:Start - 2022-08-20 22:16:44.902469: _msg_ AWS Token service started
+Type:Process - 2022-08-20 22:16:46.995314: _msg_ Trying to get token
+Type:Success - 2022-08-20 22:16:47.939030: _msg_ Token Criado
+Type:Final - 2022-08-20 22:16:47.940021: _msg_ AWS Token proccess was closed
+Type:Success - 2022-08-20 22:18:22.327736: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:19:10.715435: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:20:14.228118: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:21:54.795370: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:22:53.032927: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:23:03.792118: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:23:33.790358: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:24:14.411828: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:24:42.876345: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:24:50.637847: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:25:04.048524: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:25:39.330103: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:27:00.027343: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:27:13.368284: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:27:51.847428: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:27:59.133873: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:30:45.422875: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:31:14.095600: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:31:41.455756: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:32:06.089531: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:33:47.702495: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:34:36.724412: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:38:08.621148: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:38:57.239449: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:39:10.101486: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:42:53.665188: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:43:14.210923: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:43:57.696462: _msg_ Tried to authenticate but are already authenticated
+Type:Success - 2022-08-20 22:44:16.077760: _msg_ Tried to authenticate but are already authenticated

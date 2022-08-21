@@ -6,9 +6,9 @@ authTokenExpiresTime = ""
 authTokenCreatedDatetime = ""
 authToken = ""
 
-def writeToken(token):
-    tokenFile = open("token.dat","w")
-    tokenFile.write(token)
+def writeToken(file, data):
+    tokenFile = open(file,"w")
+    tokenFile.write(data)
     tokenFile.close()
     
 def getToken():
@@ -23,11 +23,11 @@ def validToken(tokenDT, tokenVAL):
     expireTokenDT = tokenDateTime + timedelta(seconds=tokenVAL)
     return True if datetime.now() < (expireTokenDT - timedelta(seconds=200)) else False
 
-def fileExists():
-    return exists(Path("token.dat"))
+def fileExists(file):
+    return exists(Path(file))
 
-def createTokenFile():
-    tokenFile = Path("token.dat")
+def createFile(file):
+    tokenFile = Path(file)
     tokenFile.touch(exist_ok=True)
 
     
